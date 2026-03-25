@@ -44,9 +44,10 @@ de Bernoulli.
 *"La Máquina Analítica podría componer piezas musicales de cualquier complejidad o extensión".*  
 
 * MAQUINA DE TURING (1936)  Alan Turing
-  
+
 Una maquina automatica mental que contiene con una cinta larga que tare una lista de instrucciones antes. Turing imaginó una cinta infinita, un
 cabezal que lee/escribe símbolos, y un conjunto de reglas.
+
 ---
 **_Fase 2: Despetar Visual_**  
 
