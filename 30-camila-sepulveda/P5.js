@@ -20,3 +20,9 @@ los mas usados son Python, java, c#, javascript,typescript,PHP,ruby,C,rust, entr
 
 ## P5.js
 usa libreria de Javascript, pero mas simplificada, para poder manejarla de una manera mas sencilla.
+
+  ## funciones maestras.
+
+  Setup: ejecuta una sola vez al principio( para crear lienzo), su proposito es configurar el entorno inicial
+
+draw: se ejecuta uin bucle infinito, es lo que permite crear animaciones, se puede modificar y su prioposito es crear movimiento
