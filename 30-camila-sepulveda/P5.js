@@ -93,18 +93,26 @@ coordenada x es el ancho, horizontal, y vertical.
 ! para cambiar el modo de color a HSB consultar referencia: https://p5js.org/reference/p5/colorMode/                                 
                                 
 
-## dibujar en p5.js:
+# dibujar en p5.js:
 sistema de coordenadas (x,y), comp lano cartesiano. Tener en cuenta que el punto (0,0), no esta en el centro, sino en la esquina superior izquierda. 
 
 
- # Figuras Geométricas 2D:
+ ## Figuras Geométricas 2D:
 
 Point(x,y); //dibuja un pixel en coordenadas dadas. 
 Line(x1,y1,x2,y2); //dibuja una linea desde el punto inicial hasta un punto final. 
 Rect(x,y,ancho,alto); //dibuja un rectangulo. por defecto x e y definen la esquina superior izquiera.
 Ellipse(x,y,ancho,alto); //dibuja un ovalo o circulo. x e y definen el centro de la figura. 
 Circle(x,y,diametro); //una version simplificada de la elipse cuando quieres un circulo perfecto. 
-Square(x,y,lado 
+Square(x,y,lado); //un rectangulo donde todos los lados son iguales.
+Triangle(x1,y1,x2,y2,x3,y3); //necesitas darle las coordenadas de sus tres esquinas.
+Quad(x1,y1,x2,y2,x3,y3,x4,y4); // un cuadrilatero. sirve para hacer formas irregulares de cuatro lados. 
+
+
+## Tamaño del borde:
+
+strokeWeight(weight);
+                                  
                                   
   
   
