@@ -59,10 +59,25 @@ sintaxis: **background(v1, v2, v3, [a]);**
 no sirve para designar color al lienzo , se puede poner en el setup(); o en el draw(), pero tiene resultados diferentes
 [v1,v2,v3], sobn los valores RGB. se puede obtener los valores RGB de los sitios web, https://colorspicker.net/es/  o  https://htmlcolorcodes.com/ 
 
+[a] : parametro para el canal alpha, nos sirve para darle semitransparencia al color de fondo. (0_255), donde 1 sera muy transparente y 255 muy poco 
+transparente (se puede usar sin este parametro).
+
 
 ! siempre debe estar cerrado por { la informacion que le pida el porgrama 
                                                     
-!programa para sacar codigos de colores: HTML colors codes, colormode(HSL), 
+!programa para sacar codigos de colores: HTML colors codes, colormode(HSL) 
+  
 
- Si se quiere hacer una estela de colores se debe poner el color background en estup, pero si se quiere un fondo plano se color se debe dejar en background
-coordenada x es el ancho, horizontal, y vertical                                                
+! Si se quiere hacer una estela de colores se debe poner el color background en estup, pero si se quiere un fondo plano se color se debe dejar en background
+coordenada x es el ancho, horizontal, y vertical.
+
+
+
+## background 
+1. Escala de grises(1 numero): background(220); (donde 0 es negro y 255 es blanco).
+2. Color RGB(3 numeros): background(255,0,0),(rojo,verde,azul).
+3. Nombres de colores: background(´blue´);(siempre entre comillas).
+4. transparencia(4 numeros): background(0,255,50); (R,G,B y el cuarto numero es el canal ""alpha""). 
+
+
+  
