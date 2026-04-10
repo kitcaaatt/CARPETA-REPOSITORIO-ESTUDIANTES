@@ -15,11 +15,20 @@ A medida que avanza la serie, la gama cromática se amplía y los cisnes son ree
 https://www.artgallery.nsw.gov.au/artboards/hilma/the-swan/
 
 Svanen nr 17 ![imagen de la obra](https://artequinvina.cl/wp-content/uploads/2024/11/Hilma_af_Klint_Svanen.jpg) 
-  
-  * la mayor dificultad para este trabajo fue intentar mantener el sentimiento original de la obra y no degenerarla hasta el punto de ser irreconosible. Intente    seguir con el concepto de equilibrio y dualiudad pero fui agregando un poco de caos en en dibujo, piezas intencionalmente no alinieadas y colores vibrantes ya que mi dibujo no tiene la misma intencionalidad que la obra queria utilizar algo de mis gustos en colores pasteles en mi dibujo
+
+  ITERACIONES DE MI DIBUJO
+  --
+  * la mayor dificultad para este trabajo fue intentar mantener el sentimiento original de la obra y no degenerarla hasta el punto de ser irreconosible. Intente    seguir con el concepto de equilibrio y dualiudad pero fui agregando un poco de caos en en dibujo, piezas intencionalmente no alinieadas y colores vibrantes ya que mi dibujo no tiene la misma intencionalidad que la obra queria utilizar algo de mis gustos en colores pasteles en mi dibujo.
 
 primera iteración del dibujo:![dibujo geométrico ](https://github.com/user-attachments/assets/9ee6a81a-9e5e-4f53-ba34-6ca2efc28a9c)   
-* esta primera version no fue la mejor ya que el formato estaba mut pequeño para escalar de manera correcta asi que lo cambie y mejore un poco
+* esta primera version no fue la mejor ya que el formato estaba mut pequeño para escalar de manera correcta asi que lo cambie y mejore un poco.
 
-segunda iteracion del dibujo:
+segunda iteracion del dibujo:  
+* esta version resulto ser mas satisfactoria y acorde a mi vision creativa de la obra, tambien tiene mejor definido los colores y formas añadiendo en esta el toque de caos que la version anterior carecia.
+
+DIBUJO FINAL 
+--
+link con la version final de mi dibujo: https://editor.p5js.org/StarBerryChiscake/sketches/7Rh676zIz
+
+
 
